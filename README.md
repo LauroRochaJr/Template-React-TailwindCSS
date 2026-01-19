@@ -14,7 +14,7 @@ A modern and scalable **React + Tailwind CSS** starter template designed to spee
 
 ### Typography
 
-![Typography](public/imgtypo.png)
+![Typography](public/img/typo.png)
 
 ### Color
 
@@ -102,11 +102,3 @@ npm run build
 - Dashboard UI
 - Design system playground
 - Frontend starter for real-world projects
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License.
